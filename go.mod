@@ -1,4 +1,4 @@
-module go-plist
+module github.com/chenyu1990/go-plist
 
 go 1.12
 

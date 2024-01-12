@@ -14,8 +14,8 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/chenyu1990/go-plist"
 	"github.com/jessevdk/go-flags"
-	"go-plist"
 	"gopkg.in/yaml.v1"
 )
 

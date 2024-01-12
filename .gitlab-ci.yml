@@ -3,7 +3,7 @@ stages:
     - test
 
 variables:
-    GO_PACKAGE: "go-plist"
+    GO_PACKAGE: "github.com/chenyu1990/go-plist"
 
 before_script:
     - "mkdir -p $(dirname $GOPATH/src/$GO_PACKAGE)"
